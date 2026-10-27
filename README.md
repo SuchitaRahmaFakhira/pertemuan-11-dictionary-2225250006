@@ -18,13 +18,56 @@ python praktik/data_mahasiswa.py
 
 Test Case
 
-Kasus| Hasil yang diharapkan| Hasil aktual| Status
-Pencarian A003| Data Citra ditampilkan| Data Citra ditemukan| Berhasil
-Pencarian A999| Pesan Data tidak ditemukan| Data tidak ditemukan| Berhasil
-Pembaruan nilai A002| Nilai berubah menjadi 82| Nilai A002 menjadi 82| Berhasil
-Penambahan A006| Key A006 tersedia| Data A006 berhasil ditambahkan| Berhasil
-Rekap menggunakan "items()"| Semua NIM dan data tampil| A001–A006 ditampilkan| Berhasil
-Rata-rata nilai| Rata-rata dihitung dengan benar| 83.50| Berhasil
+
+<table>
+  <thead>
+    <tr>
+      <th>Kasus</th>
+      <th>Hasil yang diharapkan</th>
+      <th>Hasil aktual</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pencarian A003</td>
+      <td>Data Citra ditampilkan</td>
+      <td>Data Citra ditemukan</td>
+      <td>Berhasil</td>
+    </tr>
+    <tr>
+      <td>Pencarian A999</td>
+      <td>Pesan data tidak ditemukan</td>
+      <td>Data tidak ditemukan</td>
+      <td>Berhasil</td>
+    </tr>
+    <tr>
+      <td>Pembaruan nilai A002</td>
+      <td>Nilai berubah menjadi 82</td>
+      <td>Nilai A002 menjadi 82</td>
+      <td>Berhasil</td>
+    </tr>
+    <tr>
+      <td>Penambahan A006</td>
+      <td>Key A006 tersedia</td>
+      <td>Data A006 berhasil ditambahkan</td>
+      <td>Berhasil</td>
+    </tr>
+    <tr>
+      <td>Rekap menggunakan items()</td>
+      <td>Semua NIM dan data tampil</td>
+      <td>A001–A006 ditampilkan</td>
+      <td>Berhasil</td>
+    </tr>
+    <tr>
+      <td>Rata-rata nilai</td>
+      <td>Rata-rata dihitung dengan benar</td>
+      <td>83.50</td>
+      <td>Berhasil</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Refleksi
 
